@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-07T14:19:46 BST" name="Amazon Test Suite" finished-at="2025-10-07T14:24:38 BST" duration-ms="292049">
+    <groups>
+    </groups>
+    <test started-at="2025-10-07T14:19:46 BST" name="Amazon Tests" finished-at="2025-10-07T14:24:38 BST" duration-ms="292049">
+      <class name="test.AmazonLazyLoadingTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.AmazonLazyLoadingTest@31c88ec8]" started-at="2025-10-07T14:19:46 BST" name="setUp" finished-at="2025-10-07T14:19:48 BST" duration-ms="1846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchAndVerifyPageTitle()[pri:1, instance:test.AmazonLazyLoadingTest@31c88ec8]" started-at="2025-10-07T14:19:48 BST" name="testSearchAndVerifyPageTitle" finished-at="2025-10-07T14:19:52 BST" duration-ms="3327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchAndVerifyPageTitle -->
+        <test-method signature="testGetNthProduct()[pri:2, instance:test.AmazonLazyLoadingTest@31c88ec8]" started-at="2025-10-07T14:19:52 BST" name="testGetNthProduct" finished-at="2025-10-07T14:20:02 BST" duration-ms="10055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetNthProduct -->
+        <test-method signature="testGetAllProductsOnScreen()[pri:3, instance:test.AmazonLazyLoadingTest@31c88ec8]" started-at="2025-10-07T14:20:02 BST" name="testGetAllProductsOnScreen" finished-at="2025-10-07T14:24:23 BST" duration-ms="261597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllProductsOnScreen -->
+        <test-method signature="testLazyLoadingWithScroll()[pri:4, instance:test.AmazonLazyLoadingTest@31c88ec8]" started-at="2025-10-07T14:24:23 BST" name="testLazyLoadingWithScroll" finished-at="2025-10-07T14:24:38 BST" duration-ms="15087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLazyLoadingWithScroll -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.AmazonLazyLoadingTest@31c88ec8]" started-at="2025-10-07T14:24:38 BST" name="tearDown" finished-at="2025-10-07T14:24:38 BST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.AmazonLazyLoadingTest -->
+    </test> <!-- Amazon Tests -->
+  </suite> <!-- Amazon Test Suite -->
+</testng-results>
