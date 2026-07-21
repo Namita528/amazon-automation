@@ -1,14 +1,6 @@
 
 # 📦 Amazon Product Search & Lazy Loading Automation using Selenium and TestNG
 
-## Overview
-
-This repository contains an automated UI testing framework developed using **Java**, **Selenium WebDriver**, and **TestNG** to validate product search functionality and lazy loading behavior on the Amazon website.
-
-The framework follows the **Page Object Model (POM)** design pattern to ensure clean, reusable, and maintainable test code. It automates common user interactions such as searching for products, validating search results, retrieving product information, and verifying that additional products load dynamically as the page is scrolled.
-
----
-
 ## Project Objective
 
 The objective of this project is to automate and validate the following Amazon search functionalities:
